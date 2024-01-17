@@ -1,0 +1,47 @@
+
+/* ****************************
+common css start
+******************************* */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+ul,ol, li {
+list-style: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+img{
+    vertical-align: middle;
+}
+h1,h2,h3,h4,h5,h6,div,img,a,span,body{
+    margin: 0;
+    padding: 0;
+}
+:root {
+--oswld:'Oswald', sans-serif;
+--primary_color: #121212;
+--secendary_Primary_color: #191919;
+--border_color:#212121;
+--initial_color:#ff4655;
+--text_color:#fff;
+--barlow: 'Barlow Condensed', sans-serif;
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+/* ****************************
+common css end
+******************************* */
+
+
+/* ****************************
+Banner css start
+******************************* */
+
